@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "rillingcards"
+  site-url: "https://josephrilling.github.io/rillingcards"
+  description: "nbdev cards tutorial"
+  repo-branch: main
+  repo-url: "https://github.com/josephrilling/rillingcards"

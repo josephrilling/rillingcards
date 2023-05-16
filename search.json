@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "card.html",
+    "href": "card.html",
+    "title": "Card",
+    "section": "",
+    "text": "source\n\nCard\n\n Card (suit:int, rank:int)\n\nA playing card\n\n\n\n\nType\nDetails\n\n\n\n\nsuit\nint\nAn index into suit\n\n\nrank\nint\nAn index into rank"
+  },
+  {
+    "objectID": "deck.html",
+    "href": "deck.html",
+    "title": "deck",
+    "section": "",
+    "text": "source\n\nDeck\n\n Deck ()\n\nA deck of 52 playing cards\n\nDeck()\n\nAclubs; 2clubs; 3clubs; 4clubs; 5clubs; 6clubs; 7clubs; 8clubs; 9clubs; 10clubs; Jclubs; Qclubs; Kclubs; Adiamonds; 2diamonds; 3diamonds; 4diamonds; 5diamonds; 6diamonds; 7diamonds; 8diamonds; 9diamonds; 10diamonds; Jdiamonds; Qdiamonds; Kdiamonds; Ahearts; 2hearts; 3hearts; 4hearts; 5hearts; 6hearts; 7hearts; 8hearts; 9hearts; 10hearts; Jhearts; Qhearts; Khearts; Aspades; 2spades; 3spades; 4spades; 5spades; 6spades; 7spades; 8spades; 9spades; 10spades; Jspades; Qspades; Kspades\n\n\nnew message to check if i can update"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "rillingcards",
+    "section": "",
+    "text": "A deck of cards demo of nbdev based on ideas from somewhere else"
+  },
+  {
+    "objectID": "index.html#install",
+    "href": "index.html#install",
+    "title": "rillingcards",
+    "section": "Install",
+    "text": "Install\npip install rillingcards"
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "rillingcards",
+    "section": "How to use",
+    "text": "How to use\nThis lib provides a Card class you can use to create display and compare playing cards\n\nCard(1,3)\n\n3diamonds"
+  }
+]
